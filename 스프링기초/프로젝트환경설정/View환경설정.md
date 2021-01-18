@@ -24,7 +24,7 @@ Hello
 
 * 동적 웹페이지로 만들어 준다. 
 
-![img_mvc](https://github.com/jsw166098/Spring/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B8%B0%EC%B4%88/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-17%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.48.12.png)
+![aa](./img/img1.png)
 
 ### Controller
 
@@ -58,7 +58,7 @@ Hello
 
 ### 동작 그림 환경
 
-![img_동작](https://github.com/jsw166098/Spring/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B8%B0%EC%B4%88/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-17%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.54.09.png)
+![img2](./img/img2.png)
 
 1. View controller가 hello에 응답하여 호출 받는다. (GetMapping)
 2. model 생성후 키값과 데이터 값을 적용한 후 hello를 리턴한다.
